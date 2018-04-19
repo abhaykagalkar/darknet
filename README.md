@@ -1,3 +1,2 @@
 # darknet
-Darknet firefirefirefire
-32
+Darknet
